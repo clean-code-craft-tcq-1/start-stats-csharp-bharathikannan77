@@ -76,9 +76,6 @@ namespace Statistics.Test
                 }
                 sendEmail = false;
                 GlowLed = false;
-
-
-
             }
             listofBool.Add(sendEmail);
             listofBool.Add(GlowLed);
